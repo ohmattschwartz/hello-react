@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(http://evm-gmbh.info/wp-content/uploads/2013/06/blurred_vintage_background_010.jpg);
+}
+
+.texthead {
+  padding-left: 40px;
+  border: 1px solid black;
+  margin-right: 650px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.App-intro {
+  margin: 40px;
+  display: flex;
+}
+
+.App-paragraph {
+  margin: 40px;
+  display: flex;
+}
+
+.footer {
+    background-color: #222;
+    font-size: 30px;
+    height: 150px;
+    padding-left: 20px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+  }
